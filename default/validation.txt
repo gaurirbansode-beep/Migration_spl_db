@@ -3,11 +3,11 @@ Migration Validation Report
 Agent-1 Output File: output.py
 Reference File: util_commons_refrence.py
 
-Lines in Reference File: 500
+Lines in Reference File: 420
 Lines in Output File: 0
 
 Matching Structures: 0
-Different Structures: 500
+Different Structures: 420
 
 Migration Completed: 0%
 Migration Remaining: 100%
