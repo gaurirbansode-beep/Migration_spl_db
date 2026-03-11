@@ -1,17 +1,15 @@
 Migration Validation Report
 
-Agent-1 Output File: output.py (NOT FOUND)
+Agent-1 Output File: default/output.py
 Reference File: util_commons_refrence.py
 
-Lines in Reference File: 0
-Lines in Output File: 0
+Lines in Reference File: 453
+Lines in Output File: 401
 
-Matching Structures: 0
-Different Structures: 0
+Matching Structures: 5
+Different Structures: 1
 
-Migration Completed: 0%
-Migration Remaining: 100%
+Migration Completed: 83%
+Migration Remaining: 17%
 
-Validation Status: INCOMPLETE
-
-NOTE: Agent-1 Output File (output.py) could not be found in the repository. Migration validation cannot be performed. Please ensure the file exists and rerun the validation.
+Validation Status: PARTIALLY MIGRATED – REWORK REQUIRED
