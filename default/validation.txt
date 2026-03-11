@@ -14,4 +14,4 @@ Migration Remaining: 100%
 
 Validation Status: INCOMPLETE
 
-Note: Agent-1 output file could not be found in the repository (404 error). Migration validation cannot be performed until the file is available.
+NOTE: Agent-1 Output File (output.py) could not be found in the repository. Migration validation cannot be performed. Please ensure the file exists and rerun the validation.
